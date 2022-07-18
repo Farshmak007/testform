@@ -1,0 +1,300 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* ! img */
+/* .regestration {
+    width: 400px;
+    margin: 0 auto;
+}
+
+.logo {
+    font-size: 25px;
+    color: white;
+    background-color: blueviolet;
+    text-align: center;
+}
+
+
+span {
+    margin-top: 20px ;
+}
+
+
+
+
+[alt="logo"] {
+    margin-top: 10px;
+    width: 32px;
+    height: 32px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    width: 320px;
+    
+}
+
+
+[type="text"],[type="email"],[type="password"] {
+    border: none;
+    padding: 9px 10px 11px 10px;
+    background-color: rgb(235, 235, 235);
+    width: 250px;
+}
+
+
+[type="checkbox"] {
+    margin-top: 20px;
+    margin-left: 5px;
+}
+
+
+[type="submit"] {
+    background-color: blueviolet;
+    color: #fff;
+    margin: 20px 0;
+    font-size: 18px;
+    padding: 7px 0p;
+    border: none;
+}
+
+
+p {
+    text-align: center;
+}
+
+
+
+[alt="name"],[alt="password"],[alt="email"]{
+    background-color: black;
+    width: 35px;
+
+    vertical-align: middle;
+   
+    padding: 5px;
+} */
+
+
+
+ 
+/* !span */
+
+
+.form {
+    width: 100%;    
+    background-color: rgb(31, 153, 112);
+    padding: 40px 20px;
+
+}
+
+
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+
+.regestration {
+    width: 100%;
+    margin: 0 auto;
+    background-color: #fff;
+padding-bottom: 40px;
+}
+
+.logo {
+    font-size: 25px;
+    color: white;
+    background-color: blueviolet;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+
+input {
+    margin-bottom: 20px ; 
+    /* width: 100%; */
+cursor:unset;
+}
+
+
+
+
+fieldset {
+    padding: 0;
+    border: none;
+    margin: 0px 60px;
+}
+
+
+[alt="logo"] {
+    margin-top: 10px;
+    width: 32px;
+    height: 32px;
+}
+
+form {
+    margin: 0 auto;
+    width: 100%;
+}
+
+.name, .password, .email{
+    background-color: blueviolet;
+padding: 7px;
+
+}
+
+
+.name::before {
+    display: inline-block;
+    content: "";
+    background-image: url(img/user.svg);
+    width: 20px;
+    height: 24px;
+    vertical-align: middle;
+    background-repeat: no-repeat;
+}
+
+
+.password:before {
+    display: inline-block;
+    content: "";
+    background-image: url(img/loc.svg);
+    width: 20px;
+    height:  24px;
+    vertical-align: middle;
+    background-repeat: no-repeat;
+}
+
+.email::before{
+    display: inline-block;
+    content: "";
+    background-image: url(img/email.svg);
+    width: 20px;
+    height: 24px;
+    vertical-align: middle;
+    background-repeat: no-repeat;
+}
+
+
+
+[type="text"],[type="email"],[type="password"] {
+    border: none;
+    padding: 9px 10px 7.5px 10px;
+    background-color: rgb(235, 235, 235);
+    outline: none;
+    width: 91%;
+
+}
+
+
+[type="checkbox"] {
+    margin-top: 20px;
+    margin-left: 5px;
+}
+
+
+[type="submit"] {
+    background-color: blueviolet;
+    color: #fff;
+    margin: 20px 0;
+    font-size: 18px;
+    padding: 7px 0px;
+    border: none;
+    width: 100%;
+}
+
+
+p {
+    text-align: center;
+}
+
+
+
+/* ! li */
+
+/*  .container {
+    background-color: rgb(31, 153, 112);
+    padding: 40px 0;
+}
+
+
+.regestration {
+    width: 400px;
+    margin: 0 auto;
+    background-color: white;
+}
+
+.logo {
+    font-size: 25px;
+    color: white;
+    background-color: blueviolet;
+    text-align: center;
+}
+
+
+ul   {
+    list-style-image: url(img/user.svg);
+    background-color: blueviolet;
+}
+
+
+
+
+[alt="logo"] {
+    margin-top: 10px;
+    width: 32px;
+    height: 32px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    width: 320px;
+    
+}
+
+
+[type="text"],[type="email"],[type="password"] {
+    border: none;
+    padding: 9px 10px 11px 10px;
+    background-color: rgb(235, 235, 235);
+    width: 250px;
+}
+
+
+[type="checkbox"] {
+    margin-top: 20px;
+    margin-left: 5px;
+}
+
+
+[type="submit"] {
+    background-color: blueviolet;
+    color: #fff;
+    margin: 20px 0;
+    font-size: 18px;
+    padding: 7px 0p;
+    border: none;
+}
+
+
+p {
+    text-align: center;
+}
+
+
+
+[alt="name"],[alt="password"],[alt="email"]{
+    background-color: black;
+    width: 35px;
+
+    vertical-align: middle;
+   
+    padding: 5px;
+} */
+ 
